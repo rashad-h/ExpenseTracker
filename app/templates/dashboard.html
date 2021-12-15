@@ -3,7 +3,8 @@
 <h3>Total Spent:</h3>
 <br>
 <div align="center" class="border-bottom">
-    <h1 class="display-1">£{{'%0.2f'|format(user.total_expense_amount|float)}}</h1>
+    <h1 class="display-1 d-none d-sm-block">£{{'%0.2f'|format(user.total_expense_amount|float)}}</h1>
+    <h1 class="display-4 d-block d-sm-none">£{{'%0.2f'|format(user.total_expense_amount|float)}}</h1>
     <br>
     <br>
 </div>
