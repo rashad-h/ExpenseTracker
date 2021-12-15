@@ -6,3 +6,5 @@ They would be able to see their total amount of spendings and see a graph repres
 # Registered account for demo purposes
 username = test
 password = testtest
+
+URL: [ExpenseTracker](https://rashadh81.pythonanywhere.com)
